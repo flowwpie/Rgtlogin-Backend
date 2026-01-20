@@ -3,7 +3,7 @@ import cors from 'cors';
 import rateLimit from 'express-rate-limit';
 import path from 'path';
 import fs from 'fs';
-// test apa lah
+// test
 const app = express();
 const PORT = 3000;
 
